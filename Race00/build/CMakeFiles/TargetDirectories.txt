@@ -1,0 +1,8 @@
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/CMakeFiles/snake.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/src/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/src/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Race00/build/app/src/CMakeFiles/src.dir

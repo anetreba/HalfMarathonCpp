@@ -1,0 +1,6 @@
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/CMakeFiles/moveAlong.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/src/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/src/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/build/src/CMakeFiles/src.dir

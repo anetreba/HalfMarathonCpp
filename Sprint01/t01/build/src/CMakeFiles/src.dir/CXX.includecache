@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/src/header.h
+iostream
+-
+vector
+-
+string
+-
+
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/src/moveAlong.cpp
+header.h
+/Users/anetreba/Desktop/MarathonCpp/Sprint01/t01/src/header.h
+

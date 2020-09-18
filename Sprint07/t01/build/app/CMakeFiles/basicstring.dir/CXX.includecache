@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/src/CBLString.h
+iostream
+-
+
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/app/main.cpp
+iostream
+-
+string
+-
+CBLString.h
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/app/CBLString.h
+CBLWString.h
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/app/CBLWString.h
+

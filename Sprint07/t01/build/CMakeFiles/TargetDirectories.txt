@@ -1,0 +1,9 @@
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/app/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/app/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/app/CMakeFiles/basicstring.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/app/src/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/app/src/CMakeFiles/edit_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/utils/CMakeFiles/rebuild_cache.dir
+/Users/anetreba/Desktop/MarathonCpp/Sprint07/t01/build/utils/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/anetreba/Desktop/Sprint01/t02/src/algorithm.cpp
+header.h
+/Users/anetreba/Desktop/Sprint01/t02/src/header.h
+
+/Users/anetreba/Desktop/Sprint01/t02/src/header.h
+iostream
+-
+string
+-
+vector
+-
+deque
+-
+sstream
+-
+
+/Users/anetreba/Desktop/Sprint01/t02/src/parseArgs.cpp
+header.h
+/Users/anetreba/Desktop/Sprint01/t02/src/header.h
+

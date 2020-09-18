@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../app/src/ChaurusReaper.h
+iostream
+-
+time.h
+-
+cstdlib
+-
+thread
+-
+unistd.h
+-
+term.h
+-
+
+/Users/anetreba/Desktop/MarathonCpp/Race00/app/main.cpp
+ChaurusReaper.h
+/Users/anetreba/Desktop/MarathonCpp/Race00/app/ChaurusReaper.h
+

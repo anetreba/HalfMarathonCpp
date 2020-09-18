@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../src/header.h
+iostream
+-
+string
+-
+vector
+-
+deque
+-
+sstream
+-
+
+/Users/anetreba/Desktop/Sprint01/t02/main.cpp
+header.h
+/Users/anetreba/Desktop/Sprint01/t02/header.h
+
